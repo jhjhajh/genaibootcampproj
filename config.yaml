@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Lim Wei Jun
+      password: 
+    user:
+      email: admin@gmail.com
+      name: Tan Mei Ling
+      password: 
+
+
+cookie:
+  expiry_days: 1
+  key: random_signature_key
+  name: random_cookie_name
